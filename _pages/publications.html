@@ -1,36 +1,82 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Journal/Conference Papers
 
-{% include base_path %}
+- **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
+*Conference on Learning Theory (COLT)*, 2025  
+**Kean Chen**, Qisheng Wang
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+- **Verifying Fault-Tolerance of Quantum Error Correction Codes**  
+*International Conference on Computer Aided Verification (CAV)*, 2025  
+**Kean Chen**, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li
 
+- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
+*Asian Quantum Information Science Conference (AQIS)*, 2025  
+**Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang
 
+- **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
+*ACM Transactions on Design Automation of Electronic Systems (TODAES)*, 2024  
+**Kean Chen**, Mingsheng Ying
 
+- **Unitarity Estimation for Quantum Channels**  
+*IEEE Transactions on Information Theory (T-IT)*, 2023  
+**Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying
+
+- **Quantum Algorithm for Fidelity Estimation**  
+*IEEE Transactions on Information Theory (T-IT)*, 2023  
+Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying
+
+- **Spatio-Temporal Point Process for Multiple Object Tracking**  
+*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023  
+Tao Wang, **Kean Chen**, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia
+
+- **End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks**  
+*IEEE/CVF International Conference on Computer Vision (ICCV)*, 2021  
+Tao Wang, Ning Xu, **Kean Chen**, Weiyao Lin
+
+- **AP-Loss for Accurate One-Stage Object Detection**  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*, 2021  
+**Kean Chen**, Weiyao Lin, Jianguo Li, John See, Ji Wang, Junni Zou
+
+- **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**  
+*European Conference on Computer Vision (ECCV)*, 2020  
+Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
+  
+- **Towards Accurate One-Stage Object Detection with AP-Loss**  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019  
+**Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou
+
+## Preprints
+
+- **Optimal lower bound for quantum channel tomography in away-from-boundary regime**  
+arXiv:2601.10683, 2026. [arXiv](https://arxiv.org/abs/2601.10683)  
+**Kean Chen**, Zhicheng Zhang, Nengkun Yu
+
+- **Quantum channel tomography and estimation by local test**  
+arXiv:2512.13614, 2025. [arXiv](https://arxiv.org/abs/2512.13614)  
+**Kean Chen**, Nengkun Yu, Zhicheng Zhang
+
+- **A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting**  
+arXiv:2512.01971, 2025. [arXiv](https://arxiv.org/abs/2512.01971)  
+**Kean Chen**, Qisheng Wang, Zhicheng Zhang
+
+- **Inverse-free quantum state estimation with Heisenberg scaling**  
+arXiv:2510.25750, 2025. [arXiv](https://arxiv.org/abs/2510.25750)  
+**Kean Chen**
+
+- **Tight Bound for Quantum Unitary Time-Reversal**  
+arXiv:2507.05736, 2025. [arXiv](https://arxiv.org/abs/2507.05736)  
+**Kean Chen**, Nengkun Yu, Zhicheng Zhang
+
+- **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
+arXiv:2404.04599, 2024. [arXiv](https://arxiv.org/abs/2404.04599)  
+**Kean Chen**, Qisheng Wang, Zhicheng Zhang
+
+- **VeriQBench: A Benchmark for Multiple Types of Quantum Circuits**  
+arXiv:2206.10880, 2022. [arXiv](https://arxiv.org/abs/2206.10880)  
+**Kean Chen**, Wang Fang, Ji Guan, Xin Hong, Mingyu Huang, Junyi Liu, Qisheng Wang, Mingsheng Ying
