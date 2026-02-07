@@ -1,64 +1,32 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
+- Ph.D. in Computer Science and Technology, Institute of Software, Chinese Academy of Sciences (2020–2024).  
+  Advisor: Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying).
+- M.E. in Electronic and Communication Engineering, Shanghai Jiao Tong University (2017–2020).  
+  Advisor: Prof. [Weiyao Lin](https://weiyaolin.github.io).
+- B.E. in Information Engineering, Shanghai Jiao Tong University (2013–2017).
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Experience
+- Postdoctoral Researcher, University of Pennsylvania (2024–present)  
+  Advisors: Prof. [Gushu Li](https://sites.google.com/view/gushuli) and Prof. [Steve Zdancewic](https://www.cis.upenn.edu/~stevez)
+- Research Intern, Tencent YouTu Lab (2018–2019)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Academic Service
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Conference Reviewer:** QIP'26, OOPSLA'25, POPL'25, QCE'25, HPCA'25, QIP'25, QCE'24, AQIS'23, CVPR'21, ICCV'21, CPVR'20.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Journal Reviewer:**
+IEEE Transactions on Information Theory,
+ACM Transactions on Quantum Computing,
+ACM Transactions on Software Engineering and Methodology,
+IEEE Transactions on Image Processing,
+IEEE Transactions on Circuits and Systems for Video Technology,
+IEEE Transactions on Intelligent Transportation Systems.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Journal Editor:** Guest Editor of Special Issue "The Role of Entropy in Quantum Computation and Algorithms", 2025-2026.
