@@ -53,6 +53,14 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 
 ## Preprints
 
+- **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
+arXiv:2601.23109, 2026. [arXiv](https://arxiv.org/abs/2601.23109)  
+Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li
+
+- **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
+arXiv:2601.12509, 2026. [arXiv](https://arxiv.org/abs/2601.12509)  
+Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li
+
 - **Optimal lower bound for quantum channel tomography in away-from-boundary regime**  
 arXiv:2601.10683, 2026. [arXiv](https://arxiv.org/abs/2601.10683)  
 **Kean Chen**, Zhicheng Zhang, Nengkun Yu
