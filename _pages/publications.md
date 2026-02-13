@@ -8,7 +8,7 @@ author_profile: true
 ## Journal/Conference Papers
 
 - **Approximation does not help in quantum unitary time-reversal**  
-*ACM Symposium on Theory of Computing (STOC)*, to appear, 2026 [pdf](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
+*ACM Symposium on Theory of Computing (STOC)*, 2026. [pdf](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang
 
 - **[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)**  
