@@ -11,7 +11,7 @@ author_profile: true
 *ACM Symposium on Theory of Computing (STOC)*, to appear, 2026  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang
 
-- **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
+- **[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)**  
 *Conference on Learning Theory (COLT)*, 2025  
 **Kean Chen**, Qisheng Wang
 
