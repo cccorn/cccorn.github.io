@@ -76,29 +76,36 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 ## Preprints
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
-arXiv:2601.23109, 2026. [arXiv](https://arxiv.org/abs/2601.23109)  
-Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li
+[[pdf]](/publications/TopoLS_Lattice_Surgery_Compilation_via_Topological_Program_Transformations.pdf)  
+Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li  
+arXiv:2601.23109, 2026
 
 - **Optimal lower bound for quantum channel tomography in away-from-boundary regime**  
-arXiv:2601.10683, 2026. [arXiv](https://arxiv.org/abs/2601.10683)  
-**Kean Chen**, Zhicheng Zhang, Nengkun Yu
+[[pdf]](/publications/Optimal_lower_bound_for_quantum_channel_tomography_in_away-from-boundary_regime.pdf)  
+**Kean Chen**, Zhicheng Zhang, Nengkun Yu  
+arXiv:2601.10683, 2026
 
 - **Quantum channel tomography and estimation by local test**  
-arXiv:2512.13614, 2025. [arXiv](https://arxiv.org/abs/2512.13614)  
-**Kean Chen**, Nengkun Yu, Zhicheng Zhang
+[[pdf]](/publications/Quantum_channel_tomography_and_estimation_by_local_test.pdf)  
+**Kean Chen**, Nengkun Yu, Zhicheng Zhang  
+arXiv:2512.13614, 2025
 
 - **A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting**  
-arXiv:2512.01971, 2025. [arXiv](https://arxiv.org/abs/2512.01971)  
-**Kean Chen**, Qisheng Wang, Zhicheng Zhang
+[[pdf]](/publications/A_List_of_Complexity_Bounds_for_Property_Testing_by_Quantum_Sample-to-Query_Lifting.pdf)  
+**Kean Chen**, Qisheng Wang, Zhicheng Zhang  
+arXiv:2512.01971, 2025
 
 - **Inverse-free quantum state estimation with Heisenberg scaling**  
-arXiv:2510.25750, 2025. [arXiv](https://arxiv.org/abs/2510.25750)  
-**Kean Chen**
+[[pdf]](/publications/Inverse-free_quantum_state_estimation_with_Heisenberg_scaling.pdf)  
+**Kean Chen**  
+arXiv:2510.25750, 2025
 
 - **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
-arXiv:2404.04599, 2024. [arXiv](https://arxiv.org/abs/2404.04599)  
-**Kean Chen**, Qisheng Wang, Zhicheng Zhang
+[[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf)  
+**Kean Chen**, Qisheng Wang, Zhicheng Zhang  
+arXiv:2404.04599, 2024
 
 - **VeriQBench: A Benchmark for Multiple Types of Quantum Circuits**  
-arXiv:2206.10880, 2022. [arXiv](https://arxiv.org/abs/2206.10880)  
-**Kean Chen**, Wang Fang, Ji Guan, Xin Hong, Mingyu Huang, Junyi Liu, Qisheng Wang, Mingsheng Ying
+[[pdf]](/publications/VeriQBench_A_Benchmark_for_Multiple_Types_of_Quantum_Circuits.pdf)  
+**Kean Chen**, Wang Fang, Ji Guan, Xin Hong, Mingyu Huang, Junyi Liu, Qisheng Wang, Mingsheng Ying  
+arXiv:2206.10880, 2022
