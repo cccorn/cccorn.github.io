@@ -10,10 +10,10 @@ author_profile: true
   Institute of Software, Chinese Academy of Sciences  
   Advisor: Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying)
 - **M.E. in Electronic and Communication Engineering, 2020**  
-  Shanghai Jiao Tong University  
+  School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University  
   Advisor: Prof. [Weiyao Lin](https://weiyaolin.github.io)
 - **B.E. in Information Engineering, 2017**  
-  Shanghai Jiao Tong University
+  School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
 
 ## Experience
 - **Postdoctoral Researcher, 2024–present**  
