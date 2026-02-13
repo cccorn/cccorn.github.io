@@ -7,37 +7,45 @@ author_profile: true
 
 ## Journal/Conference Papers
 
-- **Approximation does not help in quantum unitary time-reversal** [(PDF)](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)    
-*ACM Symposium on Theory of Computing (STOC)*, to appear, 2026  
-**Kean Chen**, Nengkun Yu, Zhicheng Zhang
+- **Approximation does not help in quantum unitary time-reversal**  
+[[pdf]](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
+**Kean Chen**, Nengkun Yu, Zhicheng Zhang  
+*STOC 2026*, to appear
 
-- **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes** [(PDF)](/papers/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf)  
-*ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2026  
-Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li
+- **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
+[[pdf]](/papers/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf)  
+Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li  
+*ASPLOS 2026*
 
-- **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers** [(PDF)](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)  
-*Conference on Learning Theory (COLT)*, 2025  
-**Kean Chen**, Qisheng Wang
+- **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
+[[pdf]](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)  
+**Kean Chen**, Qisheng Wang  
+*COLT 2025*  
 
-- **Verifying Fault-Tolerance of Quantum Error Correction Codes** [(PDF)](/papers/Verifying_Fault-Tolerance_of_Quantum_Error_Correction_Codes.pdf)  
-*International Conference on Computer Aided Verification (CAV)*, 2025  
-**Kean Chen**, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li
+- **Verifying Fault-Tolerance of Quantum Error Correction Codes**  
+[[pdf]](/papers/Verifying_Fault-Tolerance_of_Quantum_Error_Correction_Codes.pdf)  
+**Kean Chen**, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li  
+*CAV 2025*
 
-- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State** [(PDF)](/papers/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf)  
-*Asian Quantum Information Science Conference (AQIS)*, 2025  
-**Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang
+- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
+[[pdf]](/papers/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf)  
+**Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
+*AQIS 2025*
 
-- **Automatic Test Pattern Generation for Robust Quantum Circuit Testing** [(PDF)](/papers/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf)  
-*ACM Transactions on Design Automation of Electronic Systems (TODAES)*, 2024  
-**Kean Chen**, Mingsheng Ying
+- **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
+[[pdf]](/papers/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf)  
+**Kean Chen**, Mingsheng Ying  
+*ACM TODAES, 2024*
 
-- **Unitarity Estimation for Quantum Channels** [(PDF)](/papers/Unitarity_estimation_for_quantum_channels.pdf)  
-*IEEE Transactions on Information Theory (T-IT)*, 2023  
-**Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying
+- **Unitarity Estimation for Quantum Channels**  
+[[pdf]](/papers/Unitarity_estimation_for_quantum_channels.pdf)  
+**Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying  
+*IEEE T-IT, 2023*
 
-- **Quantum Algorithm for Fidelity Estimation** [(PDF)](/papers/Quantum_Algorithm_for_Fidelity_Estimation.pdf)  
-*IEEE Transactions on Information Theory (T-IT)*, 2023  
-Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying
+- **Quantum Algorithm for Fidelity Estimation**  
+[[pdf]](/papers/Quantum_Algorithm_for_Fidelity_Estimation.pdf)  
+Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying  
+*IEEE T-IT, 2023*
 
 - **Spatio-Temporal Point Process for Multiple Object Tracking**  
 *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023  
