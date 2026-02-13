@@ -12,7 +12,7 @@ author_profile: true
 - **Approximation does not help in quantum unitary time-reversal**  
 [[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
-*STOC 2026*, to appear
+*STOC 2026*
 
 - **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
 [[pdf]](/publications/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf)  
