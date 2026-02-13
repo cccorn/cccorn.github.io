@@ -7,6 +7,8 @@ author_profile: true
 
 ## Journal/Conference Papers
 
+<small>
+
 - **Approximation does not help in quantum unitary time-reversal**  
 [[pdf]](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
@@ -66,6 +68,8 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 - **Towards Accurate One-Stage Object Detection with AP-Loss**  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019  
 **Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou
+
+</small>
 
 ## Preprints
 
