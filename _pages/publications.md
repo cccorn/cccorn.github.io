@@ -10,42 +10,42 @@ author_profile: true
 <div style="font-size: 50%;">
 
 - **Approximation does not help in quantum unitary time-reversal**  
-[[pdf]](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
+[[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
 *STOC 2026*, to appear
 
 - **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
-[[pdf]](/papers/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf)  
+[[pdf]](/publications/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf)  
 Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li  
 *ASPLOS 2026*
 
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
-[[pdf]](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)  
+[[pdf]](/publications/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)  
 **Kean Chen**, Qisheng Wang  
 *COLT 2025*  
 
 - **Verifying Fault-Tolerance of Quantum Error Correction Codes**  
-[[pdf]](/papers/Verifying_Fault-Tolerance_of_Quantum_Error_Correction_Codes.pdf)  
+[[pdf]](/publications/Verifying_Fault-Tolerance_of_Quantum_Error_Correction_Codes.pdf)  
 **Kean Chen**, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li  
 *CAV 2025*
 
 - **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
-[[pdf]](/papers/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf)  
+[[pdf]](/publications/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf)  
 **Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
 *AQIS 2025*
 
 - **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
-[[pdf]](/papers/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf)  
+[[pdf]](/publications/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf)  
 **Kean Chen**, Mingsheng Ying  
 *ACM TODAES, 2024*
 
 - **Unitarity Estimation for Quantum Channels**  
-[[pdf]](/papers/Unitarity_estimation_for_quantum_channels.pdf)  
+[[pdf]](/publications/Unitarity_estimation_for_quantum_channels.pdf)  
 **Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying  
 *IEEE T-IT, 2023*
 
 - **Quantum Algorithm for Fidelity Estimation**  
-[[pdf]](/papers/Quantum_Algorithm_for_Fidelity_Estimation.pdf)  
+[[pdf]](/publications/Quantum_Algorithm_for_Fidelity_Estimation.pdf)  
 Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying  
 *IEEE T-IT, 2023*
 
