@@ -70,8 +70,9 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 *ECCV, 2020*
   
 - **Towards Accurate One-Stage Object Detection with AP-Loss**  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019  
-**Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou
+[[pdf]](/publications/Towards_Accurate_One-Stage_Object_Detection_with_AP-Loss.pdf)  
+**Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou  
+*CVPR, 2019*
 
 </small>
 
