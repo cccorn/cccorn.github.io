@@ -10,5 +10,5 @@ redirect_from:
 I am a postdoctoral researcher in the Department of Computer and Information Science at the University of Pennsylvania, advised by Prof. [Gushu Li](https://sites.google.com/view/gushuli) and Prof. [Steve Zdancewic](https://www.cis.upenn.edu/~stevez). I received my Ph.D. in Computer Science and Technology from the Institute of Software, Chinese Academy of Sciences, advised by Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying).
 
 ## Research interests
-My research interests lie in quantum information and formal methods, especially **learning, testing, and verification** of quantum systems.
-I also have earlier research experience in **computer vision and machine learning**.
+My research interests lie in **quantum information** and **formal methods**, particularly in learning, testing, and verification of quantum systems.
+I also have earlier research experience in **computer vision** and **machine learning**.
