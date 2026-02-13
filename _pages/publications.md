@@ -7,8 +7,6 @@ author_profile: true
 
 ## Journal/Conference Papers
 
-<small>
-
 - **Approximation does not help in quantum unitary time-reversal**  
 [[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
@@ -74,7 +72,6 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 **Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou  
 *CVPR, 2019*
 
-</small>
 
 ## Preprints
 
