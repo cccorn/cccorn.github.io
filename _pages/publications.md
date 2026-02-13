@@ -78,34 +78,34 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 [[pdf]](/publications/TopoLS_Lattice_Surgery_Compilation_via_Topological_Program_Transformations.pdf)  
 Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li  
-arXiv:2601.23109, 2026
+*arXiv:2601.23109, 2026*
 
 - **Optimal lower bound for quantum channel tomography in away-from-boundary regime**  
 [[pdf]](/publications/Optimal_lower_bound_for_quantum_channel_tomography_in_away-from-boundary_regime.pdf)  
 **Kean Chen**, Zhicheng Zhang, Nengkun Yu  
-arXiv:2601.10683, 2026
+*arXiv:2601.10683, 2026*
 
 - **Quantum channel tomography and estimation by local test**  
 [[pdf]](/publications/Quantum_channel_tomography_and_estimation_by_local_test.pdf)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
-arXiv:2512.13614, 2025
+*arXiv:2512.13614, 2025*
 
 - **A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting**  
 [[pdf]](/publications/A_List_of_Complexity_Bounds_for_Property_Testing_by_Quantum_Sample-to-Query_Lifting.pdf)  
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
-arXiv:2512.01971, 2025
+*arXiv:2512.01971, 2025*
 
 - **Inverse-free quantum state estimation with Heisenberg scaling**  
 [[pdf]](/publications/Inverse-free_quantum_state_estimation_with_Heisenberg_scaling.pdf)  
 **Kean Chen**  
-arXiv:2510.25750, 2025
+*arXiv:2510.25750, 2025*
 
 - **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
 [[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf)  
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
-arXiv:2404.04599, 2024
+*arXiv:2404.04599, 2024*
 
 - **VeriQBench: A Benchmark for Multiple Types of Quantum Circuits**  
 [[pdf]](/publications/VeriQBench_A_Benchmark_for_Multiple_Types_of_Quantum_Circuits.pdf)  
 **Kean Chen**, Wang Fang, Ji Guan, Xin Hong, Mingyu Huang, Junyi Liu, Qisheng Wang, Mingsheng Ying  
-arXiv:2206.10880, 2022
+*arXiv:2206.10880, 2022*
