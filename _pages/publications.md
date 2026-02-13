@@ -73,7 +73,7 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 *CVPR, 2019*
 
 
-## Preprints
+## Manuscripts
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 [[pdf]](/publications/TopoLS_Lattice_Surgery_Compilation_via_Topological_Program_Transformations.pdf)  
