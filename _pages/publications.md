@@ -44,7 +44,7 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 
 - **Quantum Algorithm for Fidelity Estimation**  
 [[pdf]](/publications/Quantum_Algorithm_for_Fidelity_Estimation.pdf)  
-Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying  
+Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng&nbsp;Ying  
 *IEEE T-IT, 2023*
 
 - **Spatio-Temporal Point Process for Multiple Object Tracking**  
