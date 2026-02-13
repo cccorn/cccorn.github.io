@@ -65,12 +65,12 @@ Tao Wang, Ning Xu, **Kean Chen**, Weiyao Lin
 - **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**  
 [[pdf]](/publications/PIoU_Loss_Towards_Accurate_Oriented_Object_Detection_in_Complex_Environments.pdf)  
 Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang  
-*ECCV, 2020*
+*ECCV 2020*
   
 - **Towards Accurate One-Stage Object Detection with AP-Loss**  
 [[pdf]](/publications/Towards_Accurate_One-Stage_Object_Detection_with_AP-Loss.pdf)  
 **Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou  
-*CVPR, 2019*
+*CVPR 2019*
 
 
 ## Manuscripts
