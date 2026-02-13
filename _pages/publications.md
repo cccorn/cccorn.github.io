@@ -7,27 +7,27 @@ author_profile: true
 
 ## Journal/Conference Papers
 
-- **Approximation does not help in quantum unitary time-reversal**  
-*ACM Symposium on Theory of Computing (STOC)*, 2026. [pdf](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
+- **Approximation does not help in quantum unitary time-reversal** [(PDF)](/papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)    
+*ACM Symposium on Theory of Computing (STOC)*, to appear, 2026  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang
 
-- **[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)**  
+- **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers** [(PDF)](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)  
 *Conference on Learning Theory (COLT)*, 2025  
 **Kean Chen**, Qisheng Wang
 
-- **Verifying Fault-Tolerance of Quantum Error Correction Codes**  
+- **Verifying Fault-Tolerance of Quantum Error Correction Codes** [(PDF)](/papers/Verifying_Fault-Tolerance_of_Quantum_Error_Correction_Codes.pdf)  
 *International Conference on Computer Aided Verification (CAV)*, 2025  
 **Kean Chen**, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li
 
-- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
+- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State** [(PDF)](/papers/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf)  
 *Asian Quantum Information Science Conference (AQIS)*, 2025  
 **Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang
 
-- **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
+- **Automatic Test Pattern Generation for Robust Quantum Circuit Testing** [(PDF)](/papers/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf)  
 *ACM Transactions on Design Automation of Electronic Systems (TODAES)*, 2024  
 **Kean Chen**, Mingsheng Ying
 
-- **Unitarity Estimation for Quantum Channels**  
+- **Unitarity Estimation for Quantum Channels** [(PDF)](/papers/Unitarity_estimation_for_quantum_channels.pdf)  
 *IEEE Transactions on Information Theory (T-IT)*, 2023  
 **Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying
 
