@@ -49,22 +49,25 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying  
 *IEEE T-IT, 2023*
 
-- **Spatio-Temporal Point Process for Multiple Object Tracking**
-[[pdf]](/publications/Spatio-Temporal_Point_Process_for_Multiple_Object_Tracking.pdf)
+- **Spatio-Temporal Point Process for Multiple Object Tracking**  
+[[pdf]](/publications/Spatio-Temporal_Point_Process_for_Multiple_Object_Tracking.pdf)  
 Tao Wang, **Kean Chen**, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia  
-*IEEE TNNLS, 2023*  
+*IEEE TNNLS, 2023*
 
 - **End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks**  
-*IEEE/CVF International Conference on Computer Vision (ICCV)*, 2021  
-Tao Wang, Ning Xu, **Kean Chen**, Weiyao Lin
+[[pdf]](/publications/End-to-End_Video_Instance_Segmentation_via_Spatial-Temporal_Graph_Neural_Networks.pdf)  
+Tao Wang, Ning Xu, **Kean Chen**, Weiyao Lin  
+*ICCV 2021*
 
 - **AP-Loss for Accurate One-Stage Object Detection**  
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*, 2021  
-**Kean Chen**, Weiyao Lin, Jianguo Li, John See, Ji Wang, Junni Zou
+[[pdf]](/publications/AP-Loss_for_Accurate_One_Stage_Object_Detection.pdf)  
+**Kean Chen**, Weiyao Lin, Jianguo Li, John See, Ji Wang, Junni Zou  
+*IEEE T-PAMI, 2021*
 
 - **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**  
-*European Conference on Computer Vision (ECCV)*, 2020  
-Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
+[[pdf]](/publications/PIoU_Loss_Towards_Accurate_Oriented_Object_Detection_in_Complex_Environments.pdf)  
+Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang  
+*ECCV, 2020*
   
 - **Towards Accurate One-Stage Object Detection with AP-Loss**  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019  
