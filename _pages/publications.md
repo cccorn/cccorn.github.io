@@ -7,6 +7,10 @@ author_profile: true
 
 ## Journal/Conference Papers
 
+- **[Approximation does not help in quantum unitary time-reversal](papers/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)**  
+*ACM Symposium on Theory of Computing (STOC)*, 2026. [arXiv](https://arxiv.org/abs/2507.05736)  
+**Kean Chen**, Nengkun Yu, Zhicheng Zhang
+
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
 *Conference on Learning Theory (COLT)*, 2025  
 **Kean Chen**, Qisheng Wang
@@ -76,10 +80,6 @@ arXiv:2512.01971, 2025. [arXiv](https://arxiv.org/abs/2512.01971)
 - **Inverse-free quantum state estimation with Heisenberg scaling**  
 arXiv:2510.25750, 2025. [arXiv](https://arxiv.org/abs/2510.25750)  
 **Kean Chen**
-
-- **Tight Bound for Quantum Unitary Time-Reversal**  
-arXiv:2507.05736, 2025. [arXiv](https://arxiv.org/abs/2507.05736)  
-**Kean Chen**, Nengkun Yu, Zhicheng Zhang
 
 - **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
 arXiv:2404.04599, 2024. [arXiv](https://arxiv.org/abs/2404.04599)  
