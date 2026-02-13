@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal/Conference Papers
 
-<div style="font-size: 50%;">
+<small>
 
 - **Approximation does not help in quantum unitary time-reversal**  
 [[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
@@ -49,9 +49,10 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying  
 *IEEE T-IT, 2023*
 
-- **Spatio-Temporal Point Process for Multiple Object Tracking**  
-*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023  
-Tao Wang, **Kean Chen**, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia
+- **Spatio-Temporal Point Process for Multiple Object Tracking**
+[[pdf]](/publications/Spatio-Temporal_Point_Process_for_Multiple_Object_Tracking.pdf)
+Tao Wang, **Kean Chen**, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia  
+*IEEE TNNLS, 2023*  
 
 - **End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks**  
 *IEEE/CVF International Conference on Computer Vision (ICCV)*, 2021  
@@ -69,7 +70,7 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019  
 **Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou
 
-</div>
+</small>
 
 ## Preprints
 
