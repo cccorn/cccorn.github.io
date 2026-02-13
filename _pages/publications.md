@@ -11,6 +11,10 @@ author_profile: true
 *ACM Symposium on Theory of Computing (STOC)*, to appear, 2026  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang
 
+- **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes** [(PDF)](/papers/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf)  
+*ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2026  
+Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li
+
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers** [(PDF)](/papers/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf)  
 *Conference on Learning Theory (COLT)*, 2025  
 **Kean Chen**, Qisheng Wang
@@ -31,7 +35,7 @@ author_profile: true
 *IEEE Transactions on Information Theory (T-IT)*, 2023  
 **Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying
 
-- **Quantum Algorithm for Fidelity Estimation**  
+- **Quantum Algorithm for Fidelity Estimation** [(PDF)](/papers/Quantum_Algorithm_for_Fidelity_Estimation.pdf)  
 *IEEE Transactions on Information Theory (T-IT)*, 2023  
 Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng Ying
 
@@ -60,10 +64,6 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 arXiv:2601.23109, 2026. [arXiv](https://arxiv.org/abs/2601.23109)  
 Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li
-
-- **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
-arXiv:2601.12509, 2026. [arXiv](https://arxiv.org/abs/2601.12509)  
-Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li
 
 - **Optimal lower bound for quantum channel tomography in away-from-boundary regime**  
 arXiv:2601.10683, 2026. [arXiv](https://arxiv.org/abs/2601.10683)  
