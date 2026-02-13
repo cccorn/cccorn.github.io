@@ -19,7 +19,7 @@ author_profile: true
 
 ## Academic Service
 
-**Conference Reviewer:** PLDI'26, QIP'26, OOPSLA'25, POPL'25, QCE'25, HPCA'25, QIP'25, QCE'24, AQIS'23, CVPR'21, ICCV'21, CPVR'20.
+**Conference Reviewer:** TQC'26, PLDI'26, QIP'26, OOPSLA'25, POPL'25, QCE'25, HPCA'25, QIP'25, QCE'24, AQIS'23, CVPR'21, ICCV'21, CPVR'20.
 
 **Journal Reviewer:**
 IEEE Transactions on Information Theory,
