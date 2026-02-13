@@ -6,16 +6,21 @@ author_profile: true
 ---
 
 ## Education
-- Ph.D. in Computer Science and Technology, Institute of Software, Chinese Academy of Sciences (2020–2024).  
-  Advisor: Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying).
-- M.E. in Electronic and Communication Engineering, Shanghai Jiao Tong University (2017–2020).  
-  Advisor: Prof. [Weiyao Lin](https://weiyaolin.github.io).
-- B.E. in Information Engineering, Shanghai Jiao Tong University (2013–2017).
+- **Ph.D. in Computer Science and Technology, 2024**  
+  Institute of Software, Chinese Academy of Sciences  
+  Advisor: Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying)
+- **M.E. in Electronic and Communication Engineering, 2020**  
+  Shanghai Jiao Tong University  
+  Advisor: Prof. [Weiyao Lin](https://weiyaolin.github.io)
+- **B.E. in Information Engineering, 2017**  
+  Shanghai Jiao Tong University
 
 ## Experience
-- Postdoctoral Researcher, University of Pennsylvania (2024–present)  
+- **Postdoctoral Researcher, 2024–present**  
+  University of Pennsylvania  
   Advisors: Prof. [Gushu Li](https://sites.google.com/view/gushuli) and Prof. [Steve Zdancewic](https://www.cis.upenn.edu/~stevez)
-- Research Intern, Tencent YouTu Lab (2018–2019)
+- **Research Intern, 2018–2019**  
+  Tencent YouTu Lab
 
 ## Academic Service
 
