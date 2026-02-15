@@ -8,7 +8,7 @@ author_profile: true
 ## Journal/Conference Papers
 
 - **Approximation does not help in quantum unitary time-reversal**  
-[[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time_reversal.pdf)  
+[[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time-reversal.pdf)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
 *STOC 2026*
 
