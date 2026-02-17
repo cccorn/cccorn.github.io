@@ -34,4 +34,4 @@ IEEE Transactions on Image Processing,
 IEEE Transactions on Circuits and Systems for Video Technology,
 IEEE Transactions on Intelligent Transportation Systems.
 
-**Journal Editor:** Guest Editor of Special Issue "The Role of Entropy in Quantum Computation and Algorithms", 2025-2026.
+**Journal Editor:** Guest Editor of Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)", Entropy, 2025-2026.
