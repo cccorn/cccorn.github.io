@@ -5,14 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Pennsylvania
+- **Topics on Quantum Error Correction (Fall 2025, UPenn)**  
+  Co-taught with Prof. [Gushu Li](https://sites.google.com/view/gushuli)  
+  Topics: stabilizer formalism; topological codes; fault-tolerant quantum computation  
 
-- **Graduate Course: Quantum Error Correction** (Fall 2025)  
-  Co-taught with Prof. Gushu Li  
-  Topics: stabilizer formalism, topological codes, and fault-tolerant quantum computation
-
-## University of Chinese Academy of Sciences
-
-- **Undergraduate Course: Discrete Mathematics** (Spring 2023)  
-  Teaching assistant, taught by Prof. Yangjia Li  
-  Topics: first-order logic, set theory, graph theory, and combinatorics
+- **Discrete Mathematics (Spring 2023, UCAS)**  
+  Teaching Assistant (Instructor: Prof. [Yangjia Li](https://dblp.org/pid/51/10827.html))  
+  Topics: first-order logic; set theory; graph theory; combinatorics
