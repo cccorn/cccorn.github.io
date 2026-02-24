@@ -1,5 +1,5 @@
 ---
-permalink: /Kean_Chen/
+permalink: /KeanChen/
 title: "About"
 author_profile: true
 redirect_from: 
