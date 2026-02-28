@@ -30,6 +30,7 @@ author_profile: true
 IEEE Transactions on Information Theory,
 ACM Transactions on Quantum Computing,
 ACM Transactions on Software Engineering and Methodology,
+Reports on Progress in Physics,
 IEEE Transactions on Image Processing,
 IEEE Transactions on Circuits and Systems for Video Technology,
 IEEE Transactions on Intelligent Transportation Systems.
