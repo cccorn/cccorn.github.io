@@ -11,4 +11,4 @@ I am a postdoctoral researcher in the Department of Computer and Information Sci
 
 ## Research interests
 My research interests lie in **quantum information** and **formal methods**, particularly in learning, testing, and verification of quantum systems.
-I also have research experience in **computer vision** and **machine learning**.
+I am also interested in **computer vision** and **machine learning**.
