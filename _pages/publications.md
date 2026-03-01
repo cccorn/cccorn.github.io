@@ -68,8 +68,8 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 *ECCV 2020*
   
 - **Towards Accurate One-Stage Object Detection with AP-Loss**  
-[[pdf]](/publications/Towards_Accurate_One-Stage_Object_Detection_with_AP-Loss.pdf)  
-**Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou, [[arXiv]](https://arxiv.org/abs/1904.06373)  
+[[pdf]](/publications/Towards_Accurate_One-Stage_Object_Detection_with_AP-Loss.pdf), [[arXiv]](https://arxiv.org/abs/1904.06373)  
+**Kean Chen**, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou  
 *CVPR 2019*
 
 
