@@ -18,7 +18,7 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 *ASPLOS 2026*
 
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
-[[pdf]](/publications/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf), [[arXiv]](https://arxiv.org/abs/2505.09563)  
+[[pdf]](/publications/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf), [[arXiv]](https://arxiv.org/abs/2505.09563v1)  
 **Kean Chen**, Qisheng Wang  
 *COLT 2025*  
 
