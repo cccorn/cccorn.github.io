@@ -78,7 +78,8 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 - **Quantum channel tomography: optimal bounds and a Heisenberg-to-classical phase transition**  
 [[pdf]](/publications/Quantum_channel_tomography_optimal_bounds_and_a_Heisenberg_to_classical_phase_transition.pdf), [[arXiv]](https://arxiv.org/abs/2604.17369)  
 **Kean Chen**, Filippo Girardi, Aadil Oufkir, Nengkun Yu, Zhicheng Zhang  
-*arXiv:2604.17369, 2026*
+*arXiv:2604.17369, 2026*  
+This paper subsumes prior papers [[2512.13614]](https://arxiv.org/abs/2512.13614), [[2601.04180]](https://arxiv.org/abs/2601.04180), [[2601.10683]](https://arxiv.org/abs/2601.10683)
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 [[pdf]](/publications/TopoLS_Lattice_Surgery_Compilation_via_Topological_Program_Transformations.pdf), [[arXiv]](https://arxiv.org/abs/2601.23109)  
