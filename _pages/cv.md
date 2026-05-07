@@ -32,6 +32,7 @@ author_profile: true
 **Journal Reviewer:**
 IEEE Transactions on Information Theory,
 ACM Transactions on Quantum Computing,
+IEEE Transactions on Quantum Engineering,
 ACM Transactions on Software Engineering and Methodology,
 Reports on Progress in Physics,
 IEEE Transactions on Image Processing,
