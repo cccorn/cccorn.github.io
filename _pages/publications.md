@@ -7,6 +7,16 @@ author_profile: true
 
 ## Journal/Conference Papers
 
+- **Quantum Multi-Level Estimation of Functionals of Discrete Distributions**  
+[[pdf]](/publications/Quantum_Multi-Level_Estimation_of_Functionals_of_Discrete_Distributions.pdf), [[arXiv]](https://arxiv.org/abs/2605.03685)  
+**Kean Chen**, Minbo Gao, Tongyang Li, Qisheng Wang, Xinzhao Wang  
+*ICALP 2026*
+
+- **Strict Hierarchy for Quantum Channel Certification to Unitary**  
+[[pdf]](/publications/Strict_Hierarchy_for_Quantum_Channel_Certification_to_Unitary.pdf), [[arXiv]](https://arxiv.org/abs/2604.26900)  
+**Kean Chen**, Qisheng Wang, Zhicheng Zhang  
+*ICALP 2026*
+
 - **Approximation does not help in quantum unitary time-reversal**  
 [[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time-reversal.pdf), [[arXiv]](https://arxiv.org/abs/2507.05736)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
