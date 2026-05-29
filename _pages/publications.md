@@ -7,6 +7,11 @@ author_profile: true
 
 ## Journal/Conference Papers
 
+- **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
+[[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf), [[arXiv]](https://arxiv.org/abs/2404.04599)  
+**Kean Chen**, Qisheng Wang, Zhicheng Zhang  
+*IEEE T-IT, 2026*
+
 - **Quantum Multi-Level Estimation of Functionals of Discrete Distributions**  
 [[pdf]](/publications/Quantum_Multi-Level_Estimation_of_Functionals_of_Discrete_Distributions.pdf), [[arXiv]](https://arxiv.org/abs/2605.03685)  
 **Kean Chen**, Minbo Gao, Tongyang Li, Qisheng Wang, Xinzhao Wang  
@@ -115,11 +120,6 @@ Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen
 [[pdf]](/publications/Inverse-free_quantum_state_estimation_with_Heisenberg_scaling.pdf), [[arXiv]](https://arxiv.org/abs/2510.25750)  
 **Kean Chen**  
 *arXiv:2510.25750, 2025*
-
-- **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
-[[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf), [[arXiv]](https://arxiv.org/abs/2404.04599)  
-**Kean Chen**, Qisheng Wang, Zhicheng Zhang  
-*arXiv:2404.04599, 2024*
 
 - **VeriQBench: A Benchmark for Multiple Types of Quantum Circuits**  
 [[pdf]](/publications/VeriQBench_A_Benchmark_for_Multiple_Types_of_Quantum_Circuits.pdf), [[arXiv]](https://arxiv.org/abs/2206.10880)  
