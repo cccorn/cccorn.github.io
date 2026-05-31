@@ -7,6 +7,11 @@ author_profile: true
 
 ## Journal/Conference Papers
 
+- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
+[[pdf]](/publications/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf), [[arXiv:2505.16715]](https://arxiv.org/abs/2505.16715)  
+**Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
+*AQIS 2025, and IEEE T-IT, 2026*
+
 - **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
 [[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf), [[arXiv:2404.04599]](https://arxiv.org/abs/2404.04599)  
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
@@ -41,11 +46,6 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 [[pdf]](/publications/Verifying_Fault-Tolerance_of_Quantum_Error_Correction_Codes.pdf), [[arXiv:2501.14380]](https://arxiv.org/abs/2501.14380)  
 **Kean Chen**, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li  
 *CAV 2025*
-
-- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
-[[pdf]](/publications/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf), [[arXiv:2505.16715]](https://arxiv.org/abs/2505.16715)  
-**Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
-*AQIS 2025*
 
 - **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
 [[pdf]](/publications/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf), [[arXiv:2202.10697]](https://arxiv.org/abs/2202.10697)  
