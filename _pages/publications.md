@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Papers are listed by release date.
+
 ## Journal/Conference Papers
 
 - **Quantum Multi-Level Estimation of Functionals of Discrete Distributions**  
