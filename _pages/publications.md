@@ -38,9 +38,9 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 *ASPLOS 2026*
 
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
-[[pdf]](/publications/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf), [[arXiv:2505.09563]](https://arxiv.org/abs/2505.09563v1)  
+[[pdf]](/publications/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf), [[arXiv:2505.09563v1]](https://arxiv.org/abs/2505.09563v1)  
 **Kean Chen**, Qisheng Wang  
-*COLT 2025*  
+*COLT 2025*
 
 - **Verifying Fault-Tolerance of Quantum Error Correction Codes**  
 [[pdf]](/publications/Verifying_Fault-Tolerance_of_Quantum_Error_Correction_Codes.pdf), [[arXiv:2501.14380]](https://arxiv.org/abs/2501.14380)  
@@ -95,6 +95,11 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 **Kean Chen**, Filippo Girardi, Aadil Oufkir, Nengkun Yu, Zhicheng Zhang  
 *arXiv:2604.17369, 2026*  
 This paper subsumes prior papers [[arXiv:2512.13614]](https://arxiv.org/abs/2512.13614), [[arXiv:2601.04180]](https://arxiv.org/abs/2601.04180), [[arXiv:2601.10683]](https://arxiv.org/abs/2601.10683)
+
+- **Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness**
+[[pdf]](/publications/Trace_Estimation_of_Quantum_State_Powers_Sample_Complexity_and_Computational_Hardness.pdf), [[arXiv:2505.09563v2]](https://arxiv.org/abs/2505.09563v2)  
+**Kean Chen**, Yupan Liu, Qisheng Wang
+*arXiv:2505.09563v2, 2026*
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 [[pdf]](/publications/TopoLS_Lattice_Surgery_Compilation_via_Topological_Program_Transformations.pdf), [[arXiv:2601.23109]](https://arxiv.org/abs/2601.23109)  
