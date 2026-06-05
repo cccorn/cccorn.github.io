@@ -96,9 +96,9 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 *arXiv:2604.17369, 2026*  
 This paper subsumes prior papers [[arXiv:2512.13614]](https://arxiv.org/abs/2512.13614), [[arXiv:2601.04180]](https://arxiv.org/abs/2601.04180), [[arXiv:2601.10683]](https://arxiv.org/abs/2601.10683)
 
-- **Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness**
+- **Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness**  
 [[pdf]](/publications/Trace_Estimation_of_Quantum_State_Powers_Sample_Complexity_and_Computational_Hardness.pdf), [[arXiv:2505.09563v2]](https://arxiv.org/abs/2505.09563v2)  
-**Kean Chen**, Yupan Liu, Qisheng Wang
+**Kean Chen**, Yupan Liu, Qisheng Wang  
 *arXiv:2505.09563v2, 2026*
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
