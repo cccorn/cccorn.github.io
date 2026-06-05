@@ -7,16 +7,6 @@ author_profile: true
 
 ## Journal/Conference Papers
 
-- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
-[[pdf]](/publications/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf), [[arXiv:2505.16715]](https://arxiv.org/abs/2505.16715)  
-**Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
-*AQIS 2025, and IEEE T-IT, 2026*
-
-- **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
-[[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf), [[arXiv:2404.04599]](https://arxiv.org/abs/2404.04599)  
-**Kean Chen**, Qisheng Wang, Zhicheng Zhang  
-*IEEE T-IT, 2026*
-
 - **Quantum Multi-Level Estimation of Functionals of Discrete Distributions**  
 [[pdf]](/publications/Quantum_Multi-Level_Estimation_of_Functionals_of_Discrete_Distributions.pdf), [[arXiv:2605.03685]](https://arxiv.org/abs/2605.03685)  
 **Kean Chen**, Minbo Gao, Tongyang Li, Qisheng Wang, Xinzhao Wang  
@@ -27,15 +17,20 @@ author_profile: true
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
 *ICALP 2026*
 
+- **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
+[[pdf]](/publications/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf), [[arXiv:2601.12509]](https://arxiv.org/abs/2601.12509)  
+Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li  
+*ASPLOS 2026*
+
 - **Approximation does not help in quantum unitary time-reversal**  
 [[pdf]](/publications/Approximation_does_not_help_in_quantum_unitary_time-reversal.pdf), [[arXiv:2507.05736]](https://arxiv.org/abs/2507.05736)  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
 *STOC 2026*
 
-- **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
-[[pdf]](/publications/AlphaSyndrome_Tackling_the_Syndrome_Measurement_Circuit_Scheduling_Problem_for_QEC_Codes.pdf), [[arXiv:2601.12509]](https://arxiv.org/abs/2601.12509)  
-Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li  
-*ASPLOS 2026*
+- **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
+[[pdf]](/publications/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf), [[arXiv:2505.16715]](https://arxiv.org/abs/2505.16715)  
+**Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
+*AQIS 2025 & IEEE T-IT, 2026*
 
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
 [[pdf]](/publications/Improved_Sample_Upper_and_Lower_Bounds_for_Trace_Estimation_of_Quantum_State_Powers.pdf), [[arXiv:2505.09563v1]](https://arxiv.org/abs/2505.09563v1)  
@@ -47,30 +42,35 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 **Kean Chen**, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li  
 *CAV 2025*
 
-- **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
-[[pdf]](/publications/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf), [[arXiv:2202.10697]](https://arxiv.org/abs/2202.10697)  
-**Kean Chen**, Mingsheng Ying  
-*ACM TODAES, 2024*
-
-- **Unitarity Estimation for Quantum Channels**  
-[[pdf]](/publications/Unitarity_estimation_for_quantum_channels.pdf), [[arXiv:2212.09319]](https://arxiv.org/abs/2212.09319)  
-**Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying  
-*IEEE T-IT, 2023*
-
-- **Quantum Algorithm for Fidelity Estimation**  
-[[pdf]](/publications/Quantum_Algorithm_for_Fidelity_Estimation.pdf), [[arXiv:2103.09076]](https://arxiv.org/abs/2103.09076)  
-Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng&nbsp;Ying  
-*IEEE T-IT, 2023*
+- **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
+[[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf), [[arXiv:2404.04599]](https://arxiv.org/abs/2404.04599)  
+**Kean Chen**, Qisheng Wang, Zhicheng Zhang  
+*IEEE T-IT, 2026*
 
 - **Spatio-Temporal Point Process for Multiple Object Tracking**  
 [[pdf]](/publications/Spatio-Temporal_Point_Process_for_Multiple_Object_Tracking.pdf), [[arXiv:2302.02444]](https://arxiv.org/abs/2302.02444)  
 Tao Wang, **Kean Chen**, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia  
 *IEEE TNNLS, 2023*
 
+- **Unitarity Estimation for Quantum Channels**  
+[[pdf]](/publications/Unitarity_estimation_for_quantum_channels.pdf), [[arXiv:2212.09319]](https://arxiv.org/abs/2212.09319)  
+**Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying  
+*IEEE T-IT, 2023*
+
 - **End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks**  
 [[pdf]](/publications/End-to-End_Video_Instance_Segmentation_via_Spatial-Temporal_Graph_Neural_Networks.pdf), [[arXiv:2203.03145]](https://arxiv.org/abs/2203.03145)  
 Tao Wang, Ning Xu, **Kean Chen**, Weiyao Lin  
 *ICCV 2021*
+
+- **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
+[[pdf]](/publications/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf), [[arXiv:2202.10697]](https://arxiv.org/abs/2202.10697)  
+**Kean Chen**, Mingsheng Ying  
+*ACM TODAES, 2024*
+
+- **Quantum Algorithm for Fidelity Estimation**  
+[[pdf]](/publications/Quantum_Algorithm_for_Fidelity_Estimation.pdf), [[arXiv:2103.09076]](https://arxiv.org/abs/2103.09076)  
+Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng&nbsp;Ying  
+*IEEE T-IT, 2023*
 
 - **AP-Loss for Accurate One-Stage Object Detection**  
 [[pdf]](/publications/AP-Loss_for_Accurate_One_Stage_Object_Detection.pdf), [[arXiv:2008.07294]](https://arxiv.org/abs/2008.07294)  
