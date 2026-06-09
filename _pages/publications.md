@@ -12,12 +12,12 @@ Papers are listed by release date.
 - **Quantum Multi-Level Estimation of Functionals of Discrete Distributions**  
 **Kean Chen**, Minbo Gao, Tongyang Li, Qisheng Wang, Xinzhao Wang  
 *ICALP 2026*  
-Released: 2026-05 &middot; [[pdf]](/publications/Quantum_Multi-Level_Estimation_of_Functionals_of_Discrete_Distributions.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2605.03685)  
+<span style="color: #999;">Released: 2026-05</span> &middot; [[pdf]](/publications/Quantum_Multi-Level_Estimation_of_Functionals_of_Discrete_Distributions.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2605.03685)
 
 - **Strict Hierarchy for Quantum Channel Certification to Unitary**  
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
 *ICALP 2026*  
-Released: 2026-04 &middot; [[pdf]](/publications/Strict_Hierarchy_for_Quantum_Channel_Certification_to_Unitary.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2604.26900)  
+Released: 2026-04 &middot; [[pdf]](/publications/Strict_Hierarchy_for_Quantum_Channel_Certification_to_Unitary.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2604.26900)
 
 - **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
 Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li  
