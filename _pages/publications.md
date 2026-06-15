@@ -37,7 +37,7 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 
 - **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
 **Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
-*AQIS 2025 & IEEE T-IT, 2026*  
+*IEEE T-IT, 2026 & AQIS 2025*  
 <span class="light-text">Released: 2025-05 &middot; [[pdf]](/publications/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2505.16715)</span>
 
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
