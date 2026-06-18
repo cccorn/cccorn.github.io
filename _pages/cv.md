@@ -27,12 +27,13 @@ author_profile: true
 
 ## Academic Service
 
-**Conference Reviewer:** ESA'26, TQC'26, PLDI'26, QIP'26, OOPSLA'25, POPL'25, QCE'25, HPCA'25, QIP'25, QCE'24, AQIS'23, CVPR'21, ICCV'21, CPVR'20.
+**Conference Reviewer:** QCE'26, ESA'26, TQC'26, PLDI'26, QIP'26, OOPSLA'25, POPL'25, QCE'25, HPCA'25, QIP'25, QCE'24, AQIS'23, CVPR'21, ICCV'21, CPVR'20.
 
 **Journal Reviewer:**
 IEEE Transactions on Information Theory,
 ACM Transactions on Quantum Computing,
 IEEE Transactions on Quantum Engineering,
+PRX Quantum,
 ACM Transactions on Software Engineering and Methodology,
 Reports on Progress in Physics,
 IEEE Transactions on Image Processing,
