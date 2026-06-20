@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Kean Chen<br>陈柯安"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
+  bio              : "Postdoctoral Researcher<br>University of Pennsylvania<br>keanchen.gan@gmail.com"
   location         : #"Philadelphia"
-  employer         : "University of Pennsylvania"
+  employer         : #"University of Pennsylvania"
   uri              : # URL
-  email            : "keanchen.gan@gmail.com" 
+  email            : #"keanchen.gan@gmail.com" 
 
   # Academic websites
   academia         : # URL
