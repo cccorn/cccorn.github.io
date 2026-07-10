@@ -25,6 +25,12 @@ Papers are listed by release date.
 *ICALP 2026*  
 <span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Strict_Hierarchy_for_Quantum_Channel_Certification_to_Unitary.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2604.26900)</span>
 
+- **Quantum channel tomography: optimal bounds and a Heisenberg-to-classical phase transition**  
+**Kean Chen**, Filippo Girardi, Aadil Oufkir, Nengkun Yu, Zhicheng Zhang  
+*FOCS 2026*  
+<span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Quantum_channel_tomography_optimal_bounds_and_a_Heisenberg_to_classical_phase_transition.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2604.17369)</span>  
+<span class="light-text">This paper subsumes prior papers [[arXiv:2512.13614]](https://arxiv.org/abs/2512.13614), [[arXiv:2601.04180]](https://arxiv.org/abs/2601.04180), [[arXiv:2601.10683]](https://arxiv.org/abs/2601.10683)</span>
+
 - **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
 Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li  
 *ASPLOS 2026*  
@@ -96,12 +102,6 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 <span class="light-text">Released: 2019-04 &middot; [[pdf]](/publications/Towards_Accurate_One-Stage_Object_Detection_with_AP-Loss.pdf), [[arXiv]](https://arxiv.org/abs/1904.06373)</span>
 
 ## Manuscripts
-
-- **Quantum channel tomography: optimal bounds and a Heisenberg-to-classical phase transition**  
-**Kean Chen**, Filippo Girardi, Aadil Oufkir, Nengkun Yu, Zhicheng Zhang  
-*arXiv:2604.17369, 2026*  
-<span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Quantum_channel_tomography_optimal_bounds_and_a_Heisenberg_to_classical_phase_transition.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2604.17369)</span>  
-<span class="light-text">This paper subsumes prior papers [[arXiv:2512.13614]](https://arxiv.org/abs/2512.13614), [[arXiv:2601.04180]](https://arxiv.org/abs/2601.04180), [[arXiv:2601.10683]](https://arxiv.org/abs/2601.10683)</span>
 
 - **Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness**  
 **Kean Chen**, Yupan Liu, Qisheng Wang  
