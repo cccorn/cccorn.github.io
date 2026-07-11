@@ -116,12 +116,14 @@ Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen
 - **Optimal lower bound for quantum channel tomography in away-from-boundary regime**  
 **Kean Chen**, Zhicheng Zhang, Nengkun Yu  
 *arXiv:2601.10683, 2026*  
-<span class="light-text">Released: 2026-01 &middot; [[pdf]](/publications/Optimal_lower_bound_for_quantum_channel_tomography_in_away-from-boundary_regime.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2601.10683)</span>
+<span class="light-text">Released: 2026-01 &middot; [[pdf]](/publications/Optimal_lower_bound_for_quantum_channel_tomography_in_away-from-boundary_regime.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2601.10683)</span>  
+<span class="light-text">This paper is subsumed into [[arXiv:2604.17369]](https://arxiv.org/abs/2604.17369)</span>
 
 - **Quantum channel tomography and estimation by local test**  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
 *arXiv:2512.13614, 2025*  
-<span class="light-text">Released: 2025-12 &middot; [[pdf]](/publications/Quantum_channel_tomography_and_estimation_by_local_test.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2512.13614)</span>
+<span class="light-text">Released: 2025-12 &middot; [[pdf]](/publications/Quantum_channel_tomography_and_estimation_by_local_test.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2512.13614)</span>  
+<span class="light-text">This paper is subsumed into [[arXiv:2604.17369]](https://arxiv.org/abs/2604.17369)</span>
 
 - **A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting**  
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
