@@ -30,14 +30,18 @@ author_profile: true
 **Conference Reviewer:** QCE'26, ESA'26, TQC'26, PLDI'26, QIP'26, OOPSLA'25, POPL'25, QCE'25, HPCA'25, QIP'25, QCE'24, AQIS'23, CVPR'21, ICCV'21, CPVR'20.
 
 **Journal Reviewer:**
-IEEE Transactions on Information Theory,
-ACM Transactions on Quantum Computing,
-IEEE Transactions on Quantum Engineering,
+Physical Review Letters,
 PRX Quantum,
-ACM Transactions on Software Engineering and Methodology,
+Nature Communications,
+Quantum Information Processing,
 Reports on Progress in Physics,
+IEEE Transactions on Information Theory,
+IEEE Transactions on Communications,
+IEEE Transactions on Quantum Engineering,
 IEEE Transactions on Image Processing,
 IEEE Transactions on Circuits and Systems for Video Technology,
-IEEE Transactions on Intelligent Transportation Systems.
+IEEE Transactions on Intelligent Transportation Systems,
+ACM Transactions on Software Engineering and Methodology,
+ACM Transactions on Quantum Computing.
 
 **Journal Editor:** Guest Editor of Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)", Entropy, 2025-2026.
