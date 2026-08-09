@@ -15,15 +15,15 @@ author_profile: true
 - **B.Eng. in Information Engineering, 2017**  
   Department of Electronic Engineering, Shanghai Jiao Tong University, Shanghai, China
 - **High School Diploma, 2013**  
-  Yali High School, Hunan, China
+  Yali High School, Changsha, China
 
 
 ## Experience
 - **Postdoctoral Researcher, 2024–present**  
-  University of Pennsylvania  
+  University of Pennsylvania, Philadelphia, USA  
   Advisors: Prof. [Gushu Li](https://sites.google.com/view/gushuli) and Prof. [Steve Zdancewic](https://www.cis.upenn.edu/~stevez)
 - **Research Intern, 2018–2019**  
-  Tencent YouTu Lab
+  Tencent YouTu Lab, Shanghai, China
 
 ## Academic Service
 
