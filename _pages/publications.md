@@ -103,6 +103,11 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 
 ## Manuscripts
 
+- **Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies**  
+**Kean Chen**, Qisheng Wang  
+*arXiv:2608.18070, 2026*  
+<span class="light-text">Released: 2026-08 &middot; [[pdf]](/publications/Nearly_Sample-Optimal_Estimators_for_Quantum_Renyi_and_Tsallis_Entropies.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2608.18070)</span>
+
 - **Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness**  
 **Kean Chen**, Yupan Liu, Qisheng Wang  
 *arXiv:2505.09563v2, 2026*  
