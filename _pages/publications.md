@@ -103,6 +103,11 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 
 ## Manuscripts
 
+- **Quantisation of Abstract Data Types**  
+Mingsheng Ying, Zhicheng Zhang, **Kean Chen**  
+*arXiv:2609.03778, 2026*  
+<span class="light-text">Released: 2026-09 &middot; [[pdf]](/publications/Quantisation_of_Abstract_Data_Types.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2609.03778)</span>
+
 - **Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies**  
 **Kean Chen**, Qisheng Wang  
 *arXiv:2608.18070, 2026*  
