@@ -29,7 +29,7 @@ Papers are listed by release date.
 **Kean Chen**, Filippo Girardi, Aadil Oufkir, Nengkun Yu, Zhicheng Zhang  
 *FOCS 2026*  
 <span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Quantum_channel_tomography_optimal_bounds_and_a_Heisenberg_to_classical_phase_transition.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2604.17369)</span>  
-<span class="light-text">This paper subsumes prior papers [[arXiv:2512.13614]](https://arxiv.org/abs/2512.13614), [[arXiv:2601.04180]](https://arxiv.org/abs/2601.04180), [[arXiv:2601.10683]](https://arxiv.org/abs/2601.10683)</span>
+<span class="light-text">This paper subsumes prior papers [*arXiv:2512.13614 (2025)*](https://arxiv.org/abs/2512.13614), [*arXiv:2601.04180 (2026)*](https://arxiv.org/abs/2601.04180), [*arXiv:2601.10683 (2026)*](https://arxiv.org/abs/2601.10683)</span>
 
 - **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
 Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Yunong Shi, Ali Javadi-Abhari, Costin Iancu, Gushu Li  
@@ -105,47 +105,47 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 
 - **Quantisation of Abstract Data Types**  
 Mingsheng Ying, Zhicheng Zhang, **Kean Chen**  
-*arXiv:2609.03778, 2026*  
+*arXiv:2609.03778 (2026)*  
 <span class="light-text">Released: 2026-09 &middot; [[pdf]](/publications/Quantisation_of_Abstract_Data_Types.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2609.03778)</span>
 
 - **Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies**  
 **Kean Chen**, Qisheng Wang  
-*arXiv:2608.18070, 2026*  
+*arXiv:2608.18070 (2026)*  
 <span class="light-text">Released: 2026-08 &middot; [[pdf]](/publications/Nearly_Sample-Optimal_Estimators_for_Quantum_Renyi_and_Tsallis_Entropies.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2608.18070)</span>
 
 - **Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness**  
 **Kean Chen**, Yupan Liu, Qisheng Wang  
-*arXiv:2505.09563v2, 2026*  
+*arXiv:2505.09563v2 (2026)*  
 <span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Trace_Estimation_of_Quantum_State_Powers_Sample_Complexity_and_Computational_Hardness.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2505.09563v2)</span>
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li  
-*arXiv:2601.23109, 2026*  
+*arXiv:2601.23109 (2026)*  
 <span class="light-text">Released: 2026-01 &middot; [[pdf]](/publications/TopoLS_Lattice_Surgery_Compilation_via_Topological_Program_Transformations.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2601.23109)</span>
 
 - **Optimal lower bound for quantum channel tomography in away-from-boundary regime**  
 **Kean Chen**, Zhicheng Zhang, Nengkun Yu  
-*arXiv:2601.10683, 2026*  
+*arXiv:2601.10683 (2026)*  
 <span class="light-text">Released: 2026-01 &middot; [[pdf]](/publications/Optimal_lower_bound_for_quantum_channel_tomography_in_away-from-boundary_regime.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2601.10683)</span>  
-<span class="light-text">This paper is subsumed into [[arXiv:2604.17369]](https://arxiv.org/abs/2604.17369)</span>
+<span class="light-text">This paper is subsumed into [*arXiv:2604.17369 (2026)*](https://arxiv.org/abs/2604.17369)</span>
 
 - **Quantum channel tomography and estimation by local test**  
 **Kean Chen**, Nengkun Yu, Zhicheng Zhang  
-*arXiv:2512.13614, 2025*  
+*arXiv:2512.13614 (2025)*  
 <span class="light-text">Released: 2025-12 &middot; [[pdf]](/publications/Quantum_channel_tomography_and_estimation_by_local_test.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2512.13614)</span>  
-<span class="light-text">This paper is subsumed into [[arXiv:2604.17369]](https://arxiv.org/abs/2604.17369)</span>
+<span class="light-text">This paper is subsumed into [*arXiv:2604.17369 (2026)*](https://arxiv.org/abs/2604.17369)</span>
 
 - **A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting**  
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
-*arXiv:2512.01971, 2025*  
+*arXiv:2512.01971 (2025)*  
 <span class="light-text">Released: 2025-12 &middot; [[pdf]](/publications/A_List_of_Complexity_Bounds_for_Property_Testing_by_Quantum_Sample-to-Query_Lifting.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2512.01971)</span>
 
 - **Inverse-free quantum state estimation with Heisenberg scaling**  
 **Kean Chen**  
-*arXiv:2510.25750, 2025*  
+*arXiv:2510.25750 (2025)*  
 <span class="light-text">Released: 2025-10 &middot; [[pdf]](/publications/Inverse-free_quantum_state_estimation_with_Heisenberg_scaling.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2510.25750)</span>
 
 - **VeriQBench: A Benchmark for Multiple Types of Quantum Circuits**  
 **Kean Chen**, Wang Fang, Ji Guan, Xin Hong, Mingyu Huang, Junyi Liu, Qisheng Wang, Mingsheng Ying  
-*arXiv:2206.10880, 2022*  
+*arXiv:2206.10880 (2022)*  
 <span class="light-text">Released: 2022-06 &middot; [[pdf]](/publications/VeriQBench_A_Benchmark_for_Multiple_Types_of_Quantum_Circuits.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2206.10880)</span>
