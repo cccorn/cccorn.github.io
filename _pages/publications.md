@@ -11,9 +11,8 @@ author_profile: true
 }
 </style>
 
-Papers are listed by release date.
-
 ## Research Papers
+(listed by release date)
 
 - **Quantisation of Abstract Data Types**  
 Mingsheng Ying, Zhicheng Zhang, **Kean Chen**  
