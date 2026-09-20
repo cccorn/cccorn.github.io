@@ -83,7 +83,7 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 
 - **Simultaneous Estimation of Nonlinear Functionals of a Quantum State**  
 **Kean Chen**, Qisheng Wang, Zhan Yu, Zhicheng Zhang  
-&emsp; *IEEE T-IT, 2026 & AQIS 2025*  
+&emsp; *IEEE Transactions on Information Theory (T-IT), 2026 & AQIS 2025*  
 <span class="light-text">Released: 2025-05 &middot; [[pdf]](/publications/Simultaneous_estimation_of_nonlinear_functionals_of_a_quantum_state.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2505.16715)</span>
 
 - **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**  
@@ -98,17 +98,17 @@ Yuhao Liu, Shuohao Ping, Junyu Zhou, Ethan Decker, Justin Kalloor, Mathias Weide
 
 - **Local Test for Unitarily Invariant Properties of Bipartite Quantum States**  
 **Kean Chen**, Qisheng Wang, Zhicheng Zhang  
-&emsp; *IEEE T-IT, 2026*  
+&emsp; *IEEE Transactions on Information Theory (T-IT), 2026*  
 <span class="light-text">Released: 2024-04 &middot; [[pdf]](/publications/Local_Test_for_Unitarily_Invariant_Properties_of_Bipartite_Quantum_States.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2404.04599)</span>
 
 - **Spatio-Temporal Point Process for Multiple Object Tracking**  
 Tao Wang, **Kean Chen**, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia  
-&emsp; *IEEE TNNLS, 2023*  
+&emsp; *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023*  
 <span class="light-text">Released: 2023-02 &middot; [[pdf]](/publications/Spatio-Temporal_Point_Process_for_Multiple_Object_Tracking.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2302.02444)</span>
 
 - **Unitarity Estimation for Quantum Channels**  
 **Kean Chen**, Qisheng Wang, Peixun Long, Mingsheng Ying  
-&emsp; *IEEE T-IT, 2023*  
+&emsp; *IEEE Transactions on Information Theory (T-IT), 2023*  
 <span class="light-text">Released: 2022-12 &middot; [[pdf]](/publications/Unitarity_estimation_for_quantum_channels.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2212.09319)</span>
 
 - **VeriQBench: A Benchmark for Multiple Types of Quantum Circuits**  
@@ -118,7 +118,7 @@ Tao Wang, **Kean Chen**, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia
 
 - **Automatic Test Pattern Generation for Robust Quantum Circuit Testing**  
 **Kean Chen**, Mingsheng Ying  
-&emsp; *ACM TODAES, 2024*  
+&emsp; *ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024*  
 <span class="light-text">Released: 2022-02 &middot; [[pdf]](/publications/Automatic_Test_Pattern_Generation_for_Robust_Quantum_Circuit_Testing.pdf), &middot; [[arXiv]](https://arxiv.org/abs/2202.10697)</span>
 
 - **End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks**  
@@ -128,12 +128,12 @@ Tao Wang, Ning Xu, **Kean Chen**, Weiyao Lin
 
 - **Quantum Algorithm for Fidelity Estimation**  
 Qisheng Wang, Zhicheng Zhang, **Kean Chen**, Ji Guan, Wang Fang, Junyi Liu, Mingsheng&nbsp;Ying  
-&emsp; *IEEE T-IT, 2023*  
+&emsp; *IEEE Transactions on Information Theory (T-IT), 2023*  
 <span class="light-text">Released: 2021-03 &middot; [[pdf]](/publications/Quantum_Algorithm_for_Fidelity_Estimation.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2103.09076)</span>
 
 - **AP-Loss for Accurate One-Stage Object Detection**  
 **Kean Chen**, Weiyao Lin, Jianguo Li, John See, Ji Wang, Junni Zou  
-&emsp; *IEEE T-PAMI, 2021*  
+&emsp; *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021*  
 <span class="light-text">Released: 2020-08 &middot; [[pdf]](/publications/AP-Loss_for_Accurate_One_Stage_Object_Detection.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2008.07294)</span>
 
 - **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**  
