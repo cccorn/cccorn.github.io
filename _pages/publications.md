@@ -151,25 +151,25 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 ## Talks
 
 - **Quantum Channel Tomography: Optimal Bounds and a Heisenberg-to-Classical Phase Transition**  
-&emsp; *Invited talk at University of Waterloo*  
+&emsp; Invited talk at *University of Waterloo*  
 <span class="light-text">Presented: 2026-07</span>
 
 - **Approximation Does Not Help in Quantum Unitary Time-Reversal**  
-&emsp; *Contributed talk at STOC 2026*  
+&emsp; Contributed talk at *STOC 2026*  
 <span class="light-text">Presented: 2026-06</span>
 
 - **Quantum Channel Tomography: Optimal Bounds and a Heisenberg-to-Classical Phase Transition**  
-&emsp; *Invited talk at STOC 2026 Workshop on Random Purification Channel*  
+&emsp; Invited talk at *STOC 2026 Workshop on Random Purification Channel*  
 <span class="light-text">Presented: 2026-06</span>
 
 - **Approximation Does Not Help in Quantum Unitary Time-Reversal**  
-&emsp; *Invited talk at The Hong Kong University of Science and Technology (Guangzhou)*  
+&emsp; Invited talk at *The Hong Kong University of Science and Technology (Guangzhou)*  
 <span class="light-text">Presented: 2025-07</span>
 
 - **Verifying Fault-Tolerance of Quantum Error Correction Codes**  
-&emsp; *Invited talk at Rutgers University*  
+&emsp; Invited talk at *Rutgers University*  
 <span class="light-text">Presented: 2025-05</span>
 
 - **Verifying Fault-Tolerance of Quantum Error Correction Codes**  
-&emsp; *Invited talk at Tsinghua University*  
+&emsp; Invited talk at *Tsinghua University*  
 <span class="light-text">Presented: 2025-03</span>
