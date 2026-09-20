@@ -13,7 +13,7 @@ author_profile: true
 
 <style>
 .me {
-  font-weight: 300;
+  font-weight: 200;
 }
 </style>
 
