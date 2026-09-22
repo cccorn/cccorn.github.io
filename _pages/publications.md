@@ -15,6 +15,11 @@ author_profile: true
 ## Research Papers
 (listed by release date)
 
+- **Near-optimal incoherent tomography of low-rank quantum channels**  
+**Kean Chen**, Aadil Oufkir  
+&emsp; Manuscript  
+<span class="light-text">Released: 2026-09 &middot; [[pdf]](/publications/Near-optimal_incoherent_tomography_of_low-rank_quantum_channels.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2609.23752)</span>
+
 - **Quantisation of Abstract Data Types**  
 Mingsheng Ying, Zhicheng Zhang, **Kean Chen**  
 &emsp; Manuscript  
