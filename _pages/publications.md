@@ -44,12 +44,13 @@ Mingsheng Ying, Zhicheng Zhang, **Kean Chen**
 **Kean Chen**, Filippo Girardi, Aadil Oufkir, Nengkun Yu, Zhicheng Zhang  
 &emsp; *FOCS 2026*  
 <span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Quantum_channel_tomography_optimal_bounds_and_a_Heisenberg_to_classical_phase_transition.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2604.17369)</span>  
-<span class="light-text">This paper subsumes prior papers [*arXiv:2512.13614 (2025)*](https://arxiv.org/abs/2512.13614), [*arXiv:2601.04180 (2026)*](https://arxiv.org/abs/2601.04180), [*arXiv:2601.10683 (2026)*](https://arxiv.org/abs/2601.10683)</span>
+<span class="light-text">This paper subsumes prior preprints [*arXiv:2512.13614 (2025)*](https://arxiv.org/abs/2512.13614), [*arXiv:2601.04180 (2026)*](https://arxiv.org/abs/2601.04180), [*arXiv:2601.10683 (2026)*](https://arxiv.org/abs/2601.10683)</span>
 
 - **Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness**  
 **Kean Chen**, Yupan Liu, Qisheng Wang  
 &emsp; Manuscript  
-<span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Trace_Estimation_of_Quantum_State_Powers_Sample_Complexity_and_Computational_Hardness.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2505.09563v2)</span>
+<span class="light-text">Released: 2026-04 &middot; [[pdf]](/publications/Trace_Estimation_of_Quantum_State_Powers_Sample_Complexity_and_Computational_Hardness.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2505.09563v2)</span>  
+<span class="light-text">This paper extends the prior *COLT 2025* paper [*arXiv:2505.09563v1 (2025)*](https://arxiv.org/abs/2505.09563v1)</span>
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li  
