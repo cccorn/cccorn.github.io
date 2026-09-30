@@ -12,7 +12,7 @@ author_profile: true
 }
 
 .ai-disclosure {
-  margin-top: -0.4em;
+  margin-top: -0.0em;
 }
 </style>
 
