@@ -21,7 +21,7 @@ author_profile: true
 </style>
 
 ## Research Papers
-(listed by release date)
+<span class="light-text">Listed by release date</span>
 
 - **Near-optimal incoherent tomography of low-rank quantum channels**  
 **Kean Chen**, Aadil Oufkir  
@@ -72,7 +72,7 @@ Mingsheng Ying, Zhicheng Zhang, **Kean Chen**
 
 - **TopoLS: Lattice Surgery Compilation via Topological Program Transformations**  
 Junyu Zhou, Yuhao Liu, Ethan Decker, Justin Kalloor, Mathias Weiden, **Kean Chen**, Costin Iancu, Gushu Li  
-&emsp; Manuscript  
+&emsp; *POPL 2027*  
 <span class="light-text">Released: 2026-01 &middot; [[pdf]](/publications/TopoLS_Lattice_Surgery_Compilation_via_Topological_Program_Transformations.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2601.23109)</span>
 
 - **AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**  
