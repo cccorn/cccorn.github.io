@@ -23,6 +23,16 @@ author_profile: true
 ## Research Papers
 <span class="light-text">Listed by release date</span>
 
+- **Quantum channel tomography: optimal bounds in the near-boundary regime**  
+**Kean Chen**, Aadil Oufkir  
+&emsp; Manuscript  
+<span class="light-text">Released: 2026-11 &middot; [[pdf]](/publications/Quantum_channel_tomography_optimal_bounds_in_the_near-boundary_regime.pdf) &middot; [[arXiv]](https://arxiv.org/abs/2611.03639)</span>
+
+  <details class="light-text pub-details">
+  <summary>AI use disclosure</summary>
+  <p> For Choi trace norm, the authors first considered isometry tomography and established a lower bound $\Omega(d^2/\varepsilon+(D-d)d/\varepsilon^2)$ under the diamond norm by providing GPT-6 with a draft introducing an isometry discrimination task involving a Haar-random mask, which generalizes the framework of [CGO+26]. After multiple rounds of interaction with GPT-6, the authors extended this lower bound to the   Choi trace norm by refining the discrimination instances. The authors then directed GPT-6 to extend the analysis to general channels. After several iterations, GPT-6 established a lower bound $\Omega(d_1^2/\varepsilon+\min\{(\tau-1)d_1^2,(\tau-1)^2d_1^2d_2^2\}/\varepsilon^2)$ and also demonstrated its optimality by proving a matching upper bound. For diamond norm, the authors also first considered isometry tomography and directed GPT-6 to extend the parallel-query upper bound for diamond norm unitary tomography [HLY26] to isometry tomography, using the results on Choi norm isometry tomography [YMM26] as guidance. GPT-6 showed that the proposed generalization fails and instead established a lower bound $\Omega(Dd/\varepsilon^2)$, matching the existing upper bound [MB26, CGO+26]. Then, by directing GPT-6 with the lower bound framework of [CGO+26] (i.e., isometry discrimination with well-separated packing net), the lower bound is extended to $\Omega(rd_1d_2/\varepsilon^2)$ for general channels in the near-boundary regime. The authors subsequently verified, learned, and revised all AI-generated arguments, and also reformulated and unified the lower bound proofs for both norms. The authors take full responsibility for the correctness and presentation of the results.</p>
+  </details>
+
 - **Near-optimal incoherent tomography of low-rank quantum channels**  
 **Kean Chen**, Aadil Oufkir  
 &emsp; Manuscript  
