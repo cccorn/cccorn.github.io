@@ -8,7 +8,7 @@ author_profile: true
 <style>
 .light-text {
   font-weight: 300;
-  color: #999;
+  color: #666;
 }
 
 .pub-details {
