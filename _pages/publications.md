@@ -184,6 +184,10 @@ Zhiming Chen, **Kean Chen**, Weiyao Lin, John See, Hui Yu, Yan Ke, Cong Yang
 ## Talks
 
 - **Quantum Channel Tomography: Optimal Bounds and a Heisenberg-to-Classical Phase Transition**  
+&emsp; Contributed talk at *FOCS 2026*  
+<span class="light-text">Presented: 2026-11</span>
+
+- **Quantum Channel Tomography: Optimal Bounds and a Heisenberg-to-Classical Phase Transition**  
 &emsp; Invited talk at *University of Waterloo*  
 <span class="light-text">Presented: 2026-07</span>
 
